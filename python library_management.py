@@ -1,4 +1,4 @@
-class Library:
+class Lib:
     def __init__(self):
         self.books = {}  
 
@@ -62,3 +62,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
